@@ -1,0 +1,17 @@
+1	Def Leppard				https://www.youtube.com/watch?v=3SluRyO4EA4
+2	Foghat					https://www.youtube.com/watch?v=GcCNcgoyG_0
+3	Rolling Stones			https://www.youtube.com/watch?v=tAiVW2ZkSH4
+4 	Queen					https://www.youtube.com/watch?v=fJ9rUzIMcZQ
+5	Metallica				https://www.youtube.com/watch?v=tAGnKpE4NCI
+6	Roxette					https://www.youtube.com/watch?v=XYXczDB8VrY
+7	Led Zeppelin			https://www.youtube.com/watch?v=D9ioyEvdggk
+8	Styx					https://www.youtube.com/watch?v=K9Qs8-BkiLw
+9	Fleetwood Mac			https://www.youtube.com/watch?v=6ul-cZyuYq4
+10	Pink Floyd				https://www.youtube.com/watch?v=IXdNnw99-Ic
+11	Mr. Big					https://www.youtube.com/watch?v=L6-uJLteKek
+12	Prljavo Kazaliste		https://www.youtube.com/watch?v=vwyN_pU2FXc
+13 	Psihomodo Pop			https://www.youtube.com/watch?v=K-V447jgRZ4
+14	Riblja Corba			https://www.youtube.com/watch?v=3YEcrD-cYZY
+15	Bajaga i Instruktori	https://www.youtube.com/watch?v=1LjyOGxJlmU
+16	Jet						https://www.youtube.com/watch?v=tuK6n2Lkza0
+17	Franz Ferdinand			https://www.youtube.com/watch?v=GhCXAiNz9Jo
